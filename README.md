@@ -15,7 +15,7 @@ Enjoy!
 WHERE THESE SYMBOLS COME FROM?
 ------------------------------
 
-For the maniacs of ISO standards, we start to say that there is no standard for geologic symbology.  On one side this allow not to get stuck into limits of a rigid schema, on the other side there will be a 'book of ISO standard geologic symbos' to wich refer to.  However, some national level geologic surveys published the symbol set they are using in their official map production.  BGS and USGS did a great job!
+For the maniacs of ISO standards, we start to say that there is no standard for geologic symbology.  On one side this allow not to get stuck into limits of a rigid schema, on the other side there will be a 'book of ISO standard geologic symbos' to which refer to.  However, some national level geologic surveys published the symbol set they are using in their official map production.  BGS and USGS did a great job!
 
 We will reference to the original document specification we are using.
 
@@ -36,7 +36,7 @@ This means that you can use, copy, distribute and improve this symbols BUT you m
 
 http://creativecommons.org/licenses/by/3.0/
 
-2012 (c) Andrea Nasse, Alessandro Frigeri
+2012 (c) Andrea Nass, Alessandro Frigeri
 
 
 WHY DO I HAVE TO CITE THIS WORK?
@@ -50,7 +50,7 @@ HOW TO CITE THIS WORK
 
 Use of digital material of this site:
 
-* Andrea Nasse and Alessandro Frigeri. _Geologic Symbols for digital mapping_ and GIS. Retrieved Oct 3, 2012, from https://github.com/afrigeri/geologic-symbols
+* Andrea Nass and Alessandro Frigeri. _Geologic Symbols for digital mapping_ and GIS. Retrieved Oct 3, 2012, from https://github.com/afrigeri/geologic-symbols
 
 ESRI geologic symbols for planetary have been produced by Andrea Nasse, and described in a scientific paper:
  

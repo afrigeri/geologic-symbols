@@ -1,7 +1,7 @@
 Geologic Symbols for digital maps and GIS
 =========================================
 
-Symbology is important in maps, as maps are intrinsecly the symbolic representation, in scale, of the real world or a planet. 
+Symbology is important in maps, as maps are inherently the symbolic representation, in scale, of the real world or a planet. 
 
 For years geologic maps have been produced by DTP programs, and geologic maps were mere drawings, as in the previous century, when paper was the only media available for map's distribution.
 

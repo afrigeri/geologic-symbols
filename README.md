@@ -32,7 +32,7 @@ LICENSE
 
 All the symbols developed here are distributed with a Creative Common 3.0 Attribution 3.0 Unported (CC BY 3.0) license.
 
-This means that you can use, copy, distribute and improve this symbols BUT you might be kind to cite our work as reported in the legal statement below:
+This means that you can use, copy, distribute and improve this symbols BUT __you might be kind to cite our work as__ reported in the legal statement below:
 
 http://creativecommons.org/licenses/by/3.0/
 

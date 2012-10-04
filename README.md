@@ -42,7 +42,7 @@ http://creativecommons.org/licenses/by/3.0/
 WHY DO I HAVE TO CITE THIS WORK?
 --------------------------------
 
-Because, we are working for you! Seriously, developing this it is a time-consuming process - but we believe this project will results in beautiful and more undestandable maps abroad.
+Because, we are working for you! Seriously, developing this it is a time-consuming process - but we believe this project will results in beautiful and more understandable maps abroad.
 
 
 HOW TO CITE THIS WORK

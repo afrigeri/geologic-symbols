@@ -21,6 +21,14 @@ We will reference to the original document specification we are using.
 
 This symbol set based on the "Digital Cartographic Standard for Geologic Map Symbolization" ( http://ngmdb.usgs.gov/fgdc_gds/geolsymstd/download.php) as prepared by the United States Geological Survey (USGS) for the Federal Geographic Data Committee (FGDC). We implemented the section 25 - Planetary Geology Features
 
+FORMATS
+-------
+
+* ESRI
+* SVG
+* __SE/SLD__ The OpenGIS® Symbology Encoding Standar provides a way to describe symbology indipendentley from the software being used. SLD allows to apply SE to the maps.
+
+
 
 PLANETARY WHAT?
 ---------------
@@ -36,7 +44,7 @@ This means that you can use, copy, distribute and improve this symbols BUT __you
 
 http://creativecommons.org/licenses/by/3.0/
 
-2012 (c) Andrea Nass, Alessandro Frigeri
+2012-2015 (c) Andrea Nass, Alessandro Frigeri
 
 
 WHY DO I HAVE TO CITE THIS WORK?

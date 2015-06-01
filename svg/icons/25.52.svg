@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="743.75"
-   height="1052.2461"
-   viewBox="0 0 595 841.79688"
+   width="8.0009747"
+   height="12.124025"
+   viewBox="0 0 6.4007797 9.6992203"
    version="1.2"
    id="svg3063"
    inkscape:version="0.48.4 r9939"
@@ -39,8 +39,8 @@
      id="namedview3103"
      showgrid="false"
      inkscape:zoom="0.22422803"
-     inkscape:cx="371.875"
-     inkscape:cy="526.12305"
+     inkscape:cx="4.061525"
+     inkscape:cy="6.0009756"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
@@ -84,59 +84,49 @@
     </clipPath>
   </defs>
   <g
-     id="surface1"
-     transform="translate(0,-0.101562)">
-    <g
-       clip-path="url(#clip1)"
-       clip-rule="nonzero"
-       id="g3083">
-      <path
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         d="m 0,0 595.19922,0 0,841.89844 -595.19922,0 z m 0,0"
-         id="path3085"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       clip-path="url(#clip2)"
-       clip-rule="nonzero"
-       id="g3087">
-      <path
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         d="m 297.60156,420.80078 -3.30078,-4.69922 6.30078,0 z m 0,0"
-         id="path3089"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       clip-path="url(#clip3)"
-       clip-rule="nonzero"
-       id="g3091">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-         d="m 297.60156,421.19922 -3.30078,4.69922 6.30078,0 z m 0,0"
-         transform="matrix(1,0,0,-1,0,842)"
-         id="path3093"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       clip-path="url(#clip4)"
-       clip-rule="nonzero"
-       id="g3095">
-      <path
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         d="m 297.30078,420.80078 3.30078,5 -6.30078,0 z m 0,0"
-         id="path3097"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       clip-path="url(#clip5)"
-       clip-rule="nonzero"
-       id="g3099">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-         d="m 297.30078,421.19922 3.30078,-5 -6.30078,0 z m 0,0"
-         transform="matrix(1,0,0,-1,0,842)"
-         id="path3101"
-         inkscape:connector-curvature="0" />
-    </g>
+     id="g3087"
+     clip-rule="nonzero"
+     clip-path="url(#clip2)"
+     transform="translate(-294.25078,-416.10156)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3089"
+       d="m 297.60156,420.80078 -3.30078,-4.69922 6.30078,0 z m 0,0"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  </g>
+  <g
+     id="g3091"
+     clip-rule="nonzero"
+     clip-path="url(#clip3)"
+     transform="translate(-294.25078,-416.10156)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3093"
+       transform="matrix(1,0,0,-1,0,842)"
+       d="m 297.60156,421.19922 -3.30078,4.69922 6.30078,0 z m 0,0"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
+  </g>
+  <g
+     id="g3095"
+     clip-rule="nonzero"
+     clip-path="url(#clip4)"
+     transform="translate(-294.25078,-416.10156)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3097"
+       d="m 297.30078,420.80078 3.30078,5 -6.30078,0 z m 0,0"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  </g>
+  <g
+     id="g3099"
+     clip-rule="nonzero"
+     clip-path="url(#clip5)"
+     transform="translate(-294.25078,-416.10156)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3101"
+       transform="matrix(1,0,0,-1,0,842)"
+       d="m 297.30078,421.19922 3.30078,-5 -6.30078,0 z m 0,0"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
   </g>
 </svg>

@@ -20,12 +20,17 @@ Our work will reference to the original document specifications from the Federal
 
 This symbol set we are presenting is based on the "Digital Cartographic Standard for Geologic Map Symbolization" ( http://ngmdb.usgs.gov/fgdc_gds/geolsymstd/download.php) as prepared by the United States Geological Survey (USGS) for the Federal Geographic Data Committee (FGDC). We implemented the section 25 - Planetary Geology Features
 
+INTEROPERABILITY OF DIGITAL SYMBOLS
+-----------------------------------
+
+Software developments bring also development of different digital formats for files.  This is valid also for symbology, and so as 2016 there is not a simple solution that will work for every GIS/mapping package around.  Hopefully the OpenGis consortium is providing specification for an interoperable open format that will make life easier for everyone once it will be implemented in every software package.  But until this is not true, we can keep in sync different formats, that will dress the maps following official specifications (in our case the FGDC one)
+
 FORMATS
 -------
 
-* ESRI
-* SVG
-* __SE/SLD__ The OpenGIS® Symbology Encoding Standard provides a way to describe symbology indipendentley from the software being used. SLD allows to apply Symbology Encoding (SE) to the maps.
+* ESRI: ESRI's own format
+* SVG: The scalable vector format is supported by QGis.
+* __SE/SLD__ The OpenGIS® Symbology Encoding Standard provides a way to describe symbology indipendentley from the software being used. SLD allows to apply Symbology Encoding (SE) to the maps.  QGis and ESRI's ArcServer supports SLD
 
 PLANETARY WHAT?
 ---------------

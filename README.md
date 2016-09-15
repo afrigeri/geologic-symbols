@@ -34,8 +34,8 @@ As the authors are working in Planetary Science-related activities, we are devel
 
 OTHER SIMILAR PROJECTS
 ----------------------
- * QGis Geologic Symbols project from Ryan Mikulovsky at ucdavis, 2010 (http://geo.distortions.net/2010/12/geologic-symbology-for-qgis.html)
- * Stefan Revets project on SourceForge, 2015-2016 https://sourceforge.net/projects/qgisgeologysymbology/ 
+ * [QGis Geologic Symbols project from Ryan Mikulovsky at ucdavis, 2010](http://geo.distortions.net/2010/12/geologic-symbology-for-qgis.html)
+ * [Stefan Revets project on SourceForge, 2015-2016](https://sourceforge.net/projects/qgisgeologysymbology/)
 
 LICENSE
 -------

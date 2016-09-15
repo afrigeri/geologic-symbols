@@ -42,7 +42,7 @@ The directories of this project are orienteed to the software package and format
 
 QGis styles files are:
  * _.qml_ QGis Layers Style file, which contains graphical definitions to be linked with feature classes
- * _.xml_ Lines/Points definitions which can be added to the QGis symbol library (Settings->Style Manager)
+ * _.xml_ Marker/Line/Fill/ColorRamp definitions which can be added to the QGis symbol library (Settings->Style Manager)
 
 
 

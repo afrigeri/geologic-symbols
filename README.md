@@ -14,11 +14,13 @@ Enjoy!
 WHERE THESE SYMBOLS COME FROM?
 ------------------------------
 
-There is no standard yet for geologic symbology.  On one side this allow not to get stuck into limits of a rigid schema, on the other side there will be a 'book of ISO standard geologic symbols' to which refer to.  However, some national level geologic surveys published the symbol set they are using in their official map production.  BGS and USGS did a great job in this sense.
+Some national-level geologic surveys published the symbol set they are using in their official map production.  BGS and USGS did a great job in this sense.
 
-Our work will reference to the original document specifications from the Federal Geographic Data Committee (FGDC).
+Our work will reference to the original document specifications published by the Federal Geographic Data Committee (FGDC).
 
-This symbol set we are presenting is based on the "Digital Cartographic Standard for Geologic Map Symbolization" ( http://ngmdb.usgs.gov/fgdc_gds/geolsymstd/download.php) as prepared by the United States Geological Survey (USGS) for the Federal Geographic Data Committee (FGDC). We implemented the section 25 - Planetary Geology Features
+This symbol set we are presenting is based on the "Digital Cartographic Standard for Geologic Map Symbolization" ( http://ngmdb.usgs.gov/fgdc_gds/geolsymstd/download.php) as prepared by the United States Geological Survey (USGS) for the Federal Geographic Data Committee (FGDC).  
+
+Andrea Nass and others implemented the section 25 - Planetary Geology Features for ESRI's software.  In this project we are aligning the symbol-set to other formats supported by other software packages.
 
 INTEROPERABILITY OF DIGITAL SYMBOLS
 -----------------------------------

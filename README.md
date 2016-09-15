@@ -7,33 +7,35 @@ For years geologic maps have been produced by DTP programs, and geologic maps we
 
 Nowadays, GIS and web-based sloppy maps are spread, and this requires geo-located geology. 
 
-However, we all like beautiful maps, and beautiful geologic maps have beautiful symbols.... so herein we fill the gap!
+However, we all like beautiful maps, and good looking geologic maps have correct and readable symbols.... so herein we fill the gap!
 
 Enjoy!
-
 
 WHERE THESE SYMBOLS COME FROM?
 ------------------------------
 
-For the maniacs of ISO standards, we start to say that there is no standard for geologic symbology.  On one side this allow not to get stuck into limits of a rigid schema, on the other side there will be a 'book of ISO standard geologic symbos' to which refer to.  However, some national level geologic surveys published the symbol set they are using in their official map production.  BGS and USGS did a great job!
+There is no standard yet for geologic symbology.  On one side this allow not to get stuck into limits of a rigid schema, on the other side there will be a 'book of ISO standard geologic symbols' to which refer to.  However, some national level geologic surveys published the symbol set they are using in their official map production.  BGS and USGS did a great job in this sense.
 
-We will reference to the original document specification we are using.
+Our work will reference to the original document specifications from the Federal Geographic Data Committee (FGDC).
 
-This symbol set based on the "Digital Cartographic Standard for Geologic Map Symbolization" ( http://ngmdb.usgs.gov/fgdc_gds/geolsymstd/download.php) as prepared by the United States Geological Survey (USGS) for the Federal Geographic Data Committee (FGDC). We implemented the section 25 - Planetary Geology Features
+This symbol set we are presenting is based on the "Digital Cartographic Standard for Geologic Map Symbolization" ( http://ngmdb.usgs.gov/fgdc_gds/geolsymstd/download.php) as prepared by the United States Geological Survey (USGS) for the Federal Geographic Data Committee (FGDC). We implemented the section 25 - Planetary Geology Features
 
 FORMATS
 -------
 
 * ESRI
 * SVG
-* __SE/SLD__ The OpenGIS® Symbology Encoding Standar provides a way to describe symbology indipendentley from the software being used. SLD allows to apply SE to the maps.
-
-
+* __SE/SLD__ The OpenGIS® Symbology Encoding Standard provides a way to describe symbology indipendentley from the software being used. SLD allows to apply Symbology Encoding (SE) to the maps.
 
 PLANETARY WHAT?
 ---------------
 
-As the authors are working in Planetary Science activities, we are developing our work specifically for planetary mapping, but all this work can be used or extended to our beloved planet, the Earth.      
+As the authors are working in Planetary Science-related activities, we are developing our work specifically for planetary mapping, but all this work can be used or extended to our beloved planet, the Earth.      
+
+OTHER SIMILAR PROJECTS
+----------------------
+ * QGis Geologic Symbols project from Ryan Mikulovsky at ucdavis, 2010 (http://geo.distortions.net/2010/12/geologic-symbology-for-qgis.html)
+ * Stefan Revets project on SourceForge, 2015-2016 https://sourceforge.net/projects/qgisgeologysymbology/ 
 
 LICENSE
 -------
@@ -44,7 +46,7 @@ This means that you can use, copy, distribute and improve this symbols BUT __you
 
 http://creativecommons.org/licenses/by/3.0/
 
-2012-2015 (c) Andrea Nass, Alessandro Frigeri
+2012-2016 (c) Andrea Nass, Alessandro Frigeri
 
 
 WHY DO I HAVE TO CITE THIS WORK?
@@ -58,7 +60,7 @@ HOW TO CITE THIS WORK
 
 Use of digital material of this site:
 
-* Andrea Nass and Alessandro Frigeri. _Geologic Symbols for digital mapping_ and GIS. Retrieved Oct 3, 2012, from https://github.com/afrigeri/geologic-symbols
+* Andrea Nass and Alessandro Frigeri. _Geologic Symbols for digital mapping_ and GIS. Retrieved [Today's Date] from https://github.com/afrigeri/geologic-symbols
 
 ESRI geologic symbols for planetary have been produced by Andrea Nasse, and described in a scientific paper:
  

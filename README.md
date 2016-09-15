@@ -25,12 +25,14 @@ INTEROPERABILITY OF DIGITAL SYMBOLS
 
 Software developments bring also development of different digital formats for files.  This is valid also for symbology, and so as 2016 there is not a simple solution that will work for every GIS/mapping package around.  Hopefully the OpenGis consortium is providing specification for an interoperable open format that will make life easier for everyone once it will be implemented in every software package.  But until this is not true, we can keep in sync different formats, that will dress the maps following official specifications (in our case the FGDC one)
 
-FORMATS
--------
+DIRECTORIES OF THIS PROJECT
+---------------------------
+The directories of this project are orienteed to the software package and format definition.  
 
-* ESRI: ESRI's own format
-* SVG: The scalable vector format is supported by QGis.
-* __SE/SLD__ The OpenGIS® Symbology Encoding Standard provides a way to describe symbology indipendentley from the software being used. SLD allows to apply Symbology Encoding (SE) to the maps.  QGis and ESRI's ArcServer supports SLD
+* __QGis__: QGis' format, based on XML
+* __ESRI__: ESRI's own format
+* __SVG__: The scalable vector format is supported by QGis.
+* __SE/SLD__: The OpenGIS® Symbology Encoding Standard provides a way to describe symbology indipendentley from the software being used. SLD allows to apply Symbology Encoding (SE) to the maps.  QGis and ESRI's ArcServer supports SLD
 
 PLANETARY WHAT?
 ---------------

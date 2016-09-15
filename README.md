@@ -37,6 +37,24 @@ The directories of this project are orienteed to the software package and format
 * __SE/SLD__: The OpenGIS® Symbology Encoding Standard provides a way to describe symbology indipendentley from the software being used. SLD allows to apply Symbology Encoding (SE) to the maps.  QGis and ESRI's ArcServer supports SLD
 * __docs__: Documents directory, where the pdf of FGDC is kept and also other support documents.
 
+
+## QGis 
+
+Download QGis symbol definition and the svg files and set the SVG path, or move the SVG files to your SVG path.
+
+Settings->Options->System->SVG Path
+
+## ESRI's ArcMap
+
+Follow the instructions in this paper:
+* A. Nass, S. van Gasselt, R. Jaumann, H. Asche, Implementation of cartographic symbols for planetary mapping in geographic information systems, Planetary and Space Science, Volume 59, Issues 11-12, September 2011, Pages 1255-1264, ISSN 0032-0633, http://dx.doi.org/10.1016/j.pss.2010.08.022.
+(http://www.sciencedirect.com/science/article/pii/S0032063310002606)
+
+## Other GIS packages 
+
+We are currently working on the packages above. Contributions are enthusiastically welcome. 
+
+
 PLANETARY WHAT?
 ---------------
 

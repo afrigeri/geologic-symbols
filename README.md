@@ -35,6 +35,7 @@ The directories of this project are orienteed to the software package and format
 * __ESRI__: ESRI's own format
 * __SVG__: The scalable vector format is supported by QGis.
 * __SE/SLD__: The OpenGIS® Symbology Encoding Standard provides a way to describe symbology indipendentley from the software being used. SLD allows to apply Symbology Encoding (SE) to the maps.  QGis and ESRI's ArcServer supports SLD
+* __docs__: Documents directory, where the pdf of FGDC is kept and also other support documents.
 
 PLANETARY WHAT?
 ---------------

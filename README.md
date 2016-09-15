@@ -40,9 +40,12 @@ The directories of this project are orienteed to the software package and format
 
 ## QGis 
 
-Download QGis symbol definition and the svg files and set the SVG path, or move the SVG files to your SVG path.
+QGis styles files are:
+ * _.qml_ QGis Layers Style file, which contains graphical definitions to be linked with feature classes
+ * _.xml_ Lines/Points definitions which can be added to the QGis symbol library (Settings->Style Manager)
 
-Settings->Options->System->SVG Path
+
+
 
 ## ESRI's ArcMap
 

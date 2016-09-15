@@ -72,7 +72,7 @@ Use of digital material of this site:
 
 * Andrea Nass and Alessandro Frigeri. _Geologic Symbols for digital mapping_ and GIS. Retrieved [Today's Date] from https://github.com/afrigeri/geologic-symbols
 
-ESRI geologic symbols for planetary have been produced by Andrea Nasse, and described in a scientific paper:
+ESRI geologic symbols for planetary have been produced by Andrea Nass, and described in a scientific paper:
  
 * A. Nass, S. van Gasselt, R. Jaumann, H. Asche, Implementation of cartographic symbols for planetary mapping in geographic information systems, Planetary and Space Science, Volume 59, Issues 11-12, September 2011, Pages 1255-1264, ISSN 0032-0633, http://dx.doi.org/10.1016/j.pss.2010.08.022.
 (http://www.sciencedirect.com/science/article/pii/S0032063310002606)

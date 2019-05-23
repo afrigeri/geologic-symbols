@@ -4,7 +4,7 @@ Here you find the symbols for qgis which are useful in geological mapping.  At t
 
 ### Preliminary setup
 
-For some symbols you need to import the svg graphic data located in the svg directory.  Download SVG files and set their path in QGIS: Preferences->System->SVG Paths.  For example, if you have placed the svg files in /Users/foo/bar/qgis-geology/svg, add the /Users/foo/bar/qgis-geology/svg directory to the list of paths in the SVG paths in QGis options. 
+For some symbols you need to import the svg graphic data located in the svg directory.  Download the SVG files [here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/afrigeri/geologic-symbols/tree/master/qgis/3.4/svg&fileName=qgis_svg_geology&rootDirectory=ImagesOfDownGit), extract them in a directory of your choice. Add this path to QGIS svg paths: Preferences->System->SVG Paths.  For example, if you have placed the svg files in /Users/foo/bar/qgis-geology/svg, add the /Users/foo/bar/qgis-geology/svg directory to the list of paths in the SVG paths in QGis options. 
 
 ### Importing the symbology
 

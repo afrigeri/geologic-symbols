@@ -1,7 +1,6 @@
-## QGIS 3.4 
+## Geologic symbols in QGIS 3.4 
 
-The FGDC symbols for qgis are located in the xml directory.
-
+Here you find the symbols for qgis which are useful in geological mapping.  At the moment there are the FGDC symbols, but others from different mapping authorities/institution can be added.
 
 ### Preliminary setup
 

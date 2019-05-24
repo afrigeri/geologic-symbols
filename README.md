@@ -16,9 +16,9 @@ WHERE THESE SYMBOLS COME FROM?
 
 Some national-level geologic surveys published the symbol set they are using in their official map production.  BGS and USGS did a great job in this sense.
 
-Our work will reference to the original document specifications published by the Federal Geographic Data Committee (FGDC).
-
-This symbol set we are presenting is based on the "Digital Cartographic Standard for Geologic Map Symbolization" ( http://ngmdb.usgs.gov/fgdc_gds/geolsymstd/download.php) as prepared by the United States Geological Survey (USGS) for the Federal Geographic Data Committee (FGDC).  
+Current published definitions are:
+ 1. United States Geological Survey (USGS): [Digital Cartographic Standard for Geologic Map Symbolization](http://ngmdb.usgs.gov/fgdc_gds/geolsymstd/download.php)
+ 2. Britih Geological Survey (BGS): [BGS Map Symbols and Lithological Ornaments](https://www.bgs.ac.uk/downloads/start.cfm?id=303)
 
 Andrea Nass and others implemented the section 25 - Planetary Geology Features for ESRI's software.  In this project we are aligning the symbol-set to other formats supported by other software packages.
 
@@ -38,13 +38,13 @@ The directories of this project are orienteed to the software package and format
 * __docs__: Documents directory, where the pdf of FGDC is kept and also other support documents.
 
 
+# Softwares 
+
 ## QGis 
 
 QGis styles files are:
  * _.qml_ QGis Layers Style file, which contains graphical definitions to be linked with feature classes
  * _.xml_ Marker/Line/Fill/ColorRamp definitions which can be added to the QGis symbol library (Settings->Style Manager)
-
-
 
 
 ## ESRI's ArcMap
@@ -57,13 +57,7 @@ Follow the instructions in this paper:
 
 We are currently working on the packages above. Contributions are enthusiastically welcome. 
 
-
-PLANETARY WHAT?
----------------
-
-As the authors are working in Planetary Science-related activities, we are developing our work specifically for planetary mapping, but all this work can be used or extended to our beloved planet, the Earth.      
-
-OTHER SIMILAR PROJECTS
+SIMILAR PROJECTS
 ----------------------
 
 The problem of having a meaningful symbology in modern softwares has been in the air from a while.  Similarly to this project some other example have been available and are actively creating interesting solutions.

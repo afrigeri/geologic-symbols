@@ -1,3 +1,7 @@
+# QGis geological symbols status
+
+In the tables below you will find the status of the symbols.  The reference number is the code reported in the FGDC manual.
+
 ### Section 25: Planetary Geology Features
 
 Ref | Description | Notes
@@ -10,11 +14,11 @@ Ref | Description | Notes
 25.6 | Fault, planetary -- sense of offset unspecified -- Location approximate |
 25.7 | Fault, planetary -- sense of offset unspecified -- Location inferred |
 25.8 | Fault, planetary -- sense of offset unspecified -- Location concealed |
-25.9|_Not available yet_|
-25.10|_Not available yet_|
-25.11|_Not available yet_|
-25.12|_Not available yet_|
-25.13|_Not available yet_|
+25.9| Normal fault, planetary—Location accurate. Ball and bar on downthrown block |
+25.10| Normal fault, planetary—Location accurate. Ball and bar on downthrown block |
+25.11| Normal fault, planetary—Location approximate. Ball and bar on downthrown block |
+25.12| Normal fault, planetary—Location inferred. Ball and bar on downthrown block |
+25.13| Normal fault, planetary—Location concealed. Ball and bar on downthrown block |
 25.14|_Not available yet_|
 25.15|_Not available yet_|
 25.16|_Not available yet_|

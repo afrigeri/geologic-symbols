@@ -1,6 +1,6 @@
 ### Section 25: Planetary Geology Features
 
-Ref No | Description | Notes
+Ref | Description | Notes
 --- | --- | --- 
 25.1 | Contact, planetary -- Location accurate | 
 25.2 | Contact, planetary -- Location approximate | 

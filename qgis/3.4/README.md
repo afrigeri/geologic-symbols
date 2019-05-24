@@ -1,36 +1,19 @@
 ## Geologic symbols in QGIS 3.4 
+#### May, 2019
+
 
 Here you find the symbols for qgis which are useful in geological mapping.  At the moment there are the FGDC symbols, but others from different mapping authorities/institution can be added.
 
 
-### QGis Setup
+### Installation and setup
 
-For some symbols you need to import the svg graphic data located in the svg directory.  Download the SVG files [here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/afrigeri/geologic-symbols/tree/master/qgis/3.4/svg&fileName=qgis_svg_geology&rootDirectory=svg-geology), extract them in a directory of your choice. Add this path to QGIS svg paths: Preferences->System->SVG Paths.  For example, if you have placed the svg files in /Users/foo/bar/qgis-geology/svg, add the /Users/foo/bar/qgis-geology/svg directory to the list of paths in the SVG paths in QGis options. 
-
-### Importing the symbology
-
-You can import the symbology in QGis in two ways: 1) by downloading and importing the files and 2) by specifying an url (no need to download the symbology)
-
-
-You can import them by specifying the xml file from QGis:
-
-```
-Settings -> Style Manager -> Import/Export -> Import Items -> File [then select the xml file]
-```
-
-or by specifying the URL:
-
-
-```
-Settings -> Style Manager -> Import/Export -> Import Items -> URL
-```
-
-for example:
-
-
-```
-https://raw.githubusercontent.com/afrigeri/geologic-symbols/master/qgis/3.4/xml/fgdc-25.84.xml
-```
+1. Download the zipfile containing the symbology
+2. Extract the zip archive and move the __svg__ directory to a place where you want to store the patterns and symbols.  It can be any directory.
+3. Open QGis and go to 'Settings -> Options' (Ubuntu) or 'Preferences' (OSX) and select the second tab from the top: 'System'
+4. In the __SVG Paths__ click the add button and select the directory where you moved the __svg__ directory
+5. In QGis, go to 'Settings -> Style Manager' and click on 'Import/Export -> Import items' button (at bottom-left)
+6. Select the __fgcd.xml__ file you have found in the zip file
+7. You should now have the geologic symbols working in your QGis!
 
 ### Current status
 

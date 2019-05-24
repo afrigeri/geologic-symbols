@@ -118,7 +118,7 @@ Ref No | Description | Notes
 25.114|_Not available yet_|
 25.115|_Not available yet_|
 25.116|_Not available yet_|
-25.117|Slide or slump material, planetary -- Arrow indicates direction of movement|
+25.117|Slide or slump material, planetary -- Arrow indicates direction of movement| Assumes line is CW, arrow shows at mid-line 
 25.118|Dark-colored ejecta, planetary|
 25.119|Light-colored ejecta, planetary|
 25.120|_Not available yet_|

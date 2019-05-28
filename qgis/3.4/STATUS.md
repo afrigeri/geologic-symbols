@@ -79,7 +79,7 @@ Ref | Description | Notes
 25.71|_Not available yet_|
 25.72|_Not available yet_|
 25.73|_Not available yet_|
-25.74|_Not available yet_|
+25.74|Base of scarp, planetary - Barp points downscarp|
 25.75|_Not available yet_|
 25.76|_Not available yet_|
 25.77|_Not available yet_|

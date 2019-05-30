@@ -1,7 +1,7 @@
 <!DOCTYPE qgis_style>
 <qgis_style version="1">
   <symbols>
-    <symbol name="fgdc-25.1" alpha="1" force_rhr="0" type="line" clip_to_extent="1" tags="fgdc,25.1,planetary geology">
+    <symbol name="25.001: Contact, planetary - Location accurate" alpha="1" force_rhr="0" type="line" clip_to_extent="1" tags="fgdc">
       <layer locked="0" enabled="1" class="SimpleLine" pass="0">
         <prop k="capstyle" v="square"/>
         <prop k="customdash" v="5;2"/>

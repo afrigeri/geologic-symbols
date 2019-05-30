@@ -12,7 +12,7 @@ DIST_DIR := ../dist
 PACKAGE_NAME := geologic_symbols_qgis
 PACKAGE_DIR := $(DIST_DIR)/$(PACKAGE_NAME)
 TARGET_XML := geologic_symblib.xml
-TARGET := $(PACKAGE_DIR)/$(TARGET_XML)
+TARGET := $(DIST_DIR)/$(TARGET_XML)
 
 $(TARGET): $(SRC_DIR)
 	mkdir -p $(DIST_DIR)
@@ -27,7 +27,8 @@ clean:
 dist: all
 	mkdir -p $(PACKAGE_DIR)
 	cp -r svg $(PACKAGE_DIR)
-	cd $(DIST_DIR); zip -r $(PACKAGE_NAME).zip $(PACKAGE_NAME)/$(TARGET_XML) $(PACKAGE_NAME)/svg
+	cp $(DIST_DIR)/$(TARGET_XML) $(PACKAGE_DIR)
+	cd $(DIST_DIR); zip -r $(PACKAGE_NAME).zip $(PACKAGE_NAME)/$(TARGET_XML) $(PACKAGE_NAME)/svg 
 
 distclean:
 	-rm -rf $(PACKAGE_DIR)

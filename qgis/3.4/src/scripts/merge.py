@@ -9,6 +9,7 @@ import xml.etree.ElementTree as ET
 from xml.etree.ElementTree import Element, SubElement, Comment, ElementTree
 import os,sys
 from xml.dom import minidom
+import glob
 
 
 def indent(elem, level=0):
@@ -38,14 +39,16 @@ top.append(comment)
 
 symbols = ET.SubElement(top, 'symbols')
 
-for filename in os.listdir(srcdir):
-   print(filename)
-   if filename.endswith(".xml"): 
-      tree = ET.parse( os.path.join( srcdir, filename ))
-      root = tree.getroot()
-      for symbol in root.findall("./symbols/symbol"):    
-         symbol.attrib['tags']='planetary geology,fgdc'
-      symbols.append(symbol)   
+for rootdir, dirs, files in os.walk( srcdir ):    
+   for filename in files:
+      if filename.endswith(".xml"): 
+         xmlfile = os.path.join(rootdir, filename)
+         auth = os.path.dirname( xmlfile )
+         tree = ET.parse( xmlfile )
+         root = tree.getroot()
+         for symbol in root.findall("./symbols/symbol"):    
+            symbol.attrib['tags'] = auth+',geology'
+         symbols.append(symbol)   
 
 ElementTree(indent(top)).write(dst)
 

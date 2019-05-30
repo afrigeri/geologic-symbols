@@ -17,7 +17,7 @@ Here you find the symbols for qgis which are useful in geological mapping.  At t
 
 ### Current status
 
-The [status page](STATUS.md) lists available symbols together with the FGDC reference code and description.   
+The [status page](STATUS.md) lists available symbols together with reference code and description.   
 
 
 ### Usage notes

@@ -42,10 +42,7 @@ The directories of this project are orienteed to the software package and format
 
 ## QGis 
 
-QGis styles files are:
- * _.qml_ QGis Layers Style file, which contains graphical definitions to be linked with feature classes
- * _.xml_ Marker/Line/Fill/ColorRamp definitions which can be added to the QGis symbol library (Settings->Style Manager)
-
+Development for a library of geologic symbols for QGis is in the [qgis/3.4](qgis/3.4) directory, were you will find istructions on how to install the library in your computer.
 
 ## ESRI's ArcMap
 

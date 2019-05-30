@@ -11,7 +11,7 @@
         <prop v="MM" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="MM" k="pattern_width_unit"/>
-        <prop v="patterns/fgdc-25.118.svg" k="svgFile"/>
+	<prop v="patterns/fgdc/fgdc-25.118.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="MM" k="svg_outline_width_unit"/>
         <prop v="20" k="width"/>

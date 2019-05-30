@@ -1,7 +1,7 @@
 <qgis_style version="1">
   <!--geologic symbols for QGis-->
 <symbols>
-    <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-31.021" tags="xml/fgdc,geology" type="marker">
+    <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-31.021" tags="fgdc,geology" type="marker">
       <layer class="SimpleMarker" enabled="1" locked="0" pass="0">
         <prop k="angle" v="0" />
       <prop k="color" v="0,0,0,255" />
@@ -30,7 +30,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-25.6" tags="xml/fgdc,geology" type="line">
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.006: Fault, planetary, sense of offset unspecified - Location approximate" tags="fgdc,geology" type="line">
       <layer class="SimpleLine" enabled="1" locked="0" pass="0">
         <prop k="capstyle" v="square" />
       <prop k="customdash" v="3.5;0.75" />
@@ -57,7 +57,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-30.1.003" tags="xml/fgdc,geology" type="line">
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-30.1.003" tags="fgdc,geology" type="line">
       <layer class="SimpleLine" enabled="1" locked="0" pass="0">
         <prop k="capstyle" v="square" />
       <prop k="customdash" v="5;2" />
@@ -84,7 +84,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-25.119" tags="xml/fgdc,geology" type="fill">
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-25.119" tags="fgdc,geology" type="fill">
       <layer class="SVGFill" enabled="1" locked="0" pass="0">
         <prop k="angle" v="0" />
       <prop k="color" v="0,0,255,255" />
@@ -134,7 +134,7 @@
         </symbol>
       </layer>
     </symbol>
-  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-25.3" tags="xml/fgdc,geology" type="line">
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.003: Contact, planetary - Location inferred" tags="fgdc,geology" type="line">
       <layer class="SimpleLine" enabled="1" locked="0" pass="0">
         <prop k="capstyle" v="square" />
       <prop k="customdash" v="1.5;0.75" />
@@ -161,7 +161,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-  <symbol alpha="1" clip_to_extent="1" favorite="1" force_rhr="0" name="fgdc-25.84" tags="xml/fgdc,geology" type="line">
+  <symbol alpha="1" clip_to_extent="1" favorite="1" force_rhr="0" name="fgdc-25.84" tags="fgdc,geology" type="line">
       <layer class="SimpleLine" enabled="1" locked="0" pass="0">
         <prop k="capstyle" v="square" />
       <prop k="customdash" v="5;2" />
@@ -238,7 +238,7 @@
         </symbol>
       </layer>
     </symbol>
-  <symbol alpha="1" clip_to_extent="1" favorite="1" force_rhr="0" name="fgdc-25.10" tags="xml/fgdc,geology" type="line">
+  <symbol alpha="1" clip_to_extent="1" favorite="1" force_rhr="0" name="fgdc-25.10" tags="fgdc,geology" type="line">
       <layer class="SimpleLine" enabled="1" locked="0" pass="0">
         <prop k="capstyle" v="square" />
       <prop k="customdash" v="3.5;0.75" />
@@ -342,7 +342,7 @@
         </symbol>
       </layer>
     </symbol>
-  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-25.5" tags="xml/fgdc,geology" type="line">
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.005: Fault, planetary, sense of offset unspecified - Location accurate" tags="fgdc,geology" type="line">
       <layer class="SimpleLine" enabled="1" locked="0" pass="0">
         <prop k="capstyle" v="square" />
       <prop k="customdash" v="5;2" />
@@ -369,7 +369,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-25.074" tags="xml/fgdc,geology" type="line">
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-25.074" tags="fgdc,geology" type="line">
       <layer class="MarkerLine" enabled="1" locked="0" pass="0">
         <prop k="interval" v="3" />
       <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
@@ -446,7 +446,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-  <symbol alpha="1" clip_to_extent="1" favorite="1" force_rhr="0" name="fgdc-25.9" tags="xml/fgdc,geology" type="line">
+  <symbol alpha="1" clip_to_extent="1" favorite="1" force_rhr="0" name="25.009: Normal fault, planetary - Location accurate. Ball and bar on downthrown block" tags="fgdc,geology" type="line">
       <layer class="SimpleLine" enabled="1" locked="0" pass="0">
         <prop k="capstyle" v="square" />
       <prop k="customdash" v="5;2" />
@@ -550,7 +550,7 @@
         </symbol>
       </layer>
     </symbol>
-  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-25.118" tags="xml/fgdc,geology" type="fill">
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-25.118" tags="fgdc,geology" type="fill">
       <layer class="SVGFill" enabled="1" locked="0" pass="0">
         <prop k="angle" v="0" />
       <prop k="color" v="0,0,255,255" />
@@ -600,7 +600,7 @@
         </symbol>
       </layer>
     </symbol>
-  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-25.1" tags="xml/fgdc,geology" type="line">
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.001: Contact, planetary - Location accurate" tags="fgdc,geology" type="line">
       <layer class="SimpleLine" enabled="1" locked="0" pass="0">
         <prop k="capstyle" v="square" />
       <prop k="customdash" v="5;2" />
@@ -627,7 +627,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-  <symbol alpha="1" clip_to_extent="1" favorite="1" force_rhr="0" name="fgdc-25.11" tags="xml/fgdc,geology" type="line">
+  <symbol alpha="1" clip_to_extent="1" favorite="1" force_rhr="0" name="fgdc-25.11" tags="fgdc,geology" type="line">
       <layer class="SimpleLine" enabled="1" locked="0" pass="0">
         <prop k="capstyle" v="square" />
       <prop k="customdash" v="1.5;0.75" />
@@ -731,7 +731,7 @@
         </symbol>
       </layer>
     </symbol>
-  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-25.34" tags="xml/fgdc,geology" type="line">
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-25.34" tags="fgdc,geology" type="line">
       <layer class="SimpleLine" enabled="1" locked="0" pass="0">
         <prop k="capstyle" v="square" />
       <prop k="customdash" v="5;2" />
@@ -758,7 +758,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-25.2" tags="xml/fgdc,geology" type="line">
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.002: Contact, planetary - Location approximate" tags="fgdc,geology" type="line">
       <layer class="SimpleLine" enabled="1" locked="0" pass="0">
         <prop k="capstyle" v="square" />
       <prop k="customdash" v="3.5;0.75" />
@@ -785,7 +785,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-25.4" tags="xml/fgdc,geology" type="line">
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.004: Contact, planetary - Location concealed" tags="fgdc,geology" type="line">
       <layer class="SimpleLine" enabled="1" locked="0" pass="0">
         <prop k="capstyle" v="square" />
       <prop k="customdash" v="0.5;0.75" />
@@ -812,7 +812,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-30.1.001" tags="xml/fgdc,geology" type="line">
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-30.1.001" tags="fgdc,geology" type="line">
       <layer class="SimpleLine" enabled="1" locked="0" pass="0">
         <prop k="capstyle" v="square" />
       <prop k="customdash" v="5;2" />
@@ -839,7 +839,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-25.8" tags="xml/fgdc,geology" type="line">
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.008: Fault, planetary, sense of offset unspecified - location concealed" tags="fgdc,geology" type="line">
       <layer class="SimpleLine" enabled="1" locked="0" pass="0">
         <prop k="capstyle" v="square" />
       <prop k="customdash" v="0.5;0.75" />
@@ -866,7 +866,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-  <symbol alpha="1" clip_to_extent="1" favorite="1" force_rhr="0" name="fgdc-25.12" tags="xml/fgdc,geology" type="line">
+  <symbol alpha="1" clip_to_extent="1" favorite="1" force_rhr="0" name="fgdc-25.12" tags="fgdc,geology" type="line">
       <layer class="SimpleLine" enabled="1" locked="0" pass="0">
         <prop k="capstyle" v="square" />
       <prop k="customdash" v="0.5;0.75" />
@@ -970,7 +970,7 @@
         </symbol>
       </layer>
     </symbol>
-  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-25.117" tags="xml/fgdc,geology" type="line">
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-25.117" tags="fgdc,geology" type="line">
       <layer class="MarkerLine" enabled="1" locked="0" pass="0">
         <prop k="interval" v="3" />
       <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
@@ -1046,7 +1046,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-17.001" tags="xml/fgdc,geology" type="line">
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-17.001" tags="fgdc,geology" type="line">
       <layer class="SimpleLine" enabled="1" locked="0" pass="0">
         <prop k="capstyle" v="square" />
       <prop k="customdash" v="5;2" />
@@ -1073,7 +1073,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-25.33" tags="xml/fgdc,geology" type="line">
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-25.33" tags="fgdc,geology" type="line">
       <layer class="SimpleLine" enabled="1" locked="0" pass="0">
         <prop k="capstyle" v="square" />
       <prop k="customdash" v="5;2" />
@@ -1100,7 +1100,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="fgdc-25.7" tags="xml/fgdc,geology" type="line">
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.007: Fault, planetary, sense of offset unspecified - Location inferred" tags="fgdc,geology" type="line">
       <layer class="SimpleLine" enabled="1" locked="0" pass="0">
         <prop k="capstyle" v="square" />
       <prop k="customdash" v="1.5;0.75" />

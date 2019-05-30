@@ -43,7 +43,7 @@ for rootdir, dirs, files in os.walk( srcdir ):
    for filename in files:
       if filename.endswith(".xml"): 
          xmlfile = os.path.join(rootdir, filename)
-         auth = os.path.dirname( xmlfile )
+         auth = os.path.dirname( xmlfile ).split('/')[-1]
          tree = ET.parse( xmlfile )
          root = tree.getroot()
          for symbol in root.findall("./symbols/symbol"):    

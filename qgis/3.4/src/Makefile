@@ -24,7 +24,7 @@ all:
 clean:
 	-rm $(TARGET)
 
-dist: all
+dist: distclean all
 	mkdir -p $(PACKAGE_DIR)
 	cp -r svg $(PACKAGE_DIR)
 	cp $(DIST_DIR)/$(TARGET_XML) $(PACKAGE_DIR)

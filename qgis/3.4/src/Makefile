@@ -9,9 +9,10 @@
 SRC_DIR := xml
 
 DIST_DIR := ../dist
-PACKAGE := geologic_symbols_qgis
-PACKAGE_DIR := $(DIST_DIR)/$(PACKAGE)
-TARGET := $(PACKAGE_DIR)/fgdc.xml
+PACKAGE_NAME := geologic_symbols_qgis
+PACKAGE_DIR := $(DIST_DIR)/$(PACKAGE_NAME)
+TARGET_XML := geologic_symblib.xml
+TARGET := $(PACKAGE_DIR)/$(TARGET_XML)
 
 $(TARGET): $(SRC_DIR)
 	mkdir -p $(DIST_DIR)
@@ -26,8 +27,8 @@ clean:
 dist: all
 	mkdir -p $(PACKAGE_DIR)
 	cp -r svg $(PACKAGE_DIR)
-	cd $(DIST_DIR); zip -r fgdc-qgis.zip $(PACKAGE)/fgdc.xml $(PACKAGE)/svg
+	cd $(DIST_DIR); zip -r $(PACKAGE_NAME).zip $(PACKAGE_NAME)/$(TARGET_XML) $(PACKAGE_NAME)/svg
 
 distclean:
 	-rm -rf $(PACKAGE_DIR)
-	-rm $(DIST_DIR)/fgdc-qgis.zip
+	-rm $(DIST_DIR)/$(PACKAGE_NAME).zip

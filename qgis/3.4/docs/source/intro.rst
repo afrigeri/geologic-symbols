@@ -1,5 +1,5 @@
 ************************
- Geologic Symbos in QGIS
+ Introduction
 ************************
 
 This is the intro

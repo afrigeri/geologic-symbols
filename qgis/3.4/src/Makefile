@@ -33,3 +33,6 @@ dist: distclean all
 distclean:
 	-rm -rf $(PACKAGE_DIR)
 	-rm $(DIST_DIR)/$(PACKAGE_NAME).zip
+
+update_usgs_patterns:
+	svn export --force https://github.com/davenquinn/geologic-patterns/trunk/assets/svg svg/patterns/fcgd

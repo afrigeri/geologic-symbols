@@ -28,7 +28,8 @@ dist: distclean all
 	mkdir -p $(PACKAGE_DIR)
 	cp -r svg $(PACKAGE_DIR)
 	cp $(DIST_DIR)/$(TARGET_XML) $(PACKAGE_DIR)
-	cd $(DIST_DIR); zip -r $(PACKAGE_NAME).zip $(PACKAGE_NAME)/$(TARGET_XML) $(PACKAGE_NAME)/svg 
+	cd $(DIST_DIR); zip -r $(PACKAGE_NAME).zip $(PACKAGE_NAME)/$(TARGET_XML) $(PACKAGE_NAME)/svg
+	rm -rf $(PACKAGE_DIR)
 
 distclean:
 	-rm -rf $(PACKAGE_DIR)

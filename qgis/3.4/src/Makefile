@@ -35,4 +35,4 @@ distclean:
 	-rm $(DIST_DIR)/$(PACKAGE_NAME).zip
 
 update_usgs_patterns:
-	svn export --force https://github.com/davenquinn/geologic-patterns/trunk/assets/svg svg/patterns/fcgd
+	svn export --force https://github.com/davenquinn/geologic-patterns/trunk/assets/svg svg/patterns/fgcd

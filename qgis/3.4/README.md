@@ -1,5 +1,6 @@
+![](docs/images/ss01.png)
 ## Geologic symbols in QGIS 3.4 
-#### May, 2019
+#### June, 2019
 
 
 Here you find the symbols for qgis which are useful in geological mapping.  At the moment there are the FGDC symbols, but others from different mapping authorities/institution can be added.

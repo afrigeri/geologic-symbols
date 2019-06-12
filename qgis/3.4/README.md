@@ -1,4 +1,6 @@
-![](docs/images/ss01.png)
+
+![QGIS](docs/images/ss01.png)
+
 ## Geologic symbols in QGIS 3.4 
 #### June, 2019
 

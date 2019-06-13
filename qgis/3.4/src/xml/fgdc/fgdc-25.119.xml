@@ -1,7 +1,7 @@
 <!DOCTYPE qgis_style>
 <qgis_style version="1">
   <symbols>
-    <symbol name="fgdc-25.119" alpha="1" force_rhr="0" type="fill" clip_to_extent="1" tags="fgdc,25.119,planetary geology">
+    <symbol name="25.119: Light-colored ejecta, planetary" alpha="1" force_rhr="0" type="fill" clip_to_extent="1" tags="fgdc,geology">
       <layer locked="0" enabled="1" class="SVGFill" pass="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="0,0,255,255"/>

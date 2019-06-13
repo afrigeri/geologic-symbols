@@ -26,7 +26,7 @@ all:
 clean:
 	-rm $(TARGET)
 
-dist: distclean all
+dist: clean distclean all
 	mkdir -p $(PACKAGE_DIR)
 	cp -r $(DIST_FILES) $(PACKAGE_DIR)
 	cd $(DIST_DIR); zip -r $(PACKAGE_NAME).zip $(PACKAGE_NAME)/$(TARGET_XML) $(PACKAGE_NAME)/svg

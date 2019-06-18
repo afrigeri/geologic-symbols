@@ -42,7 +42,7 @@ The directories of this project are orienteed to the software package and format
 
 ## QGis 
 
-Development for a library of geologic symbols for QGis is in the [qgis/3.4](qgis/3.4) directory, were you will find istructions on how to install the library in your computer.
+Development for a library of geologic symbols for QGis is in the [geologic-symbols-qgis](https://github.com/afrigeri/geologic-symbols-qgis) repository, were you will find istructions on how to install the library in your computer.
 
 ## ESRI's ArcMap
 

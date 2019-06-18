@@ -48,6 +48,7 @@ for rootdir, dirs, files in os.walk( srcdir ):
          root = tree.getroot()
          for symbol in root.findall("./symbols/symbol"):    
             symbol.attrib['tags'] = auth+',geology'
+            print(symbol.attrib['name'])
          symbols.append(symbol)   
 
 ElementTree(indent(top)).write(dst)
